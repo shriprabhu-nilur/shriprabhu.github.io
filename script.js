@@ -55,11 +55,11 @@ const typingElement = document.getElementById("typing");
 
 const roles = [
     "Python Developer",
-    "PHP Developer",
-    "Application Developer",
-    "Generative AI Enthusiast",
-    "ML & DL Practitioner",
-    "NLP Learner"
+    "PHP Application Developer",
+    "Generative AI ",
+    "Agentic AI ",
+    "ML Enthusiast"
+    
 ];
 
 let roleIndex = 0;
